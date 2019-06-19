@@ -30,9 +30,13 @@
     ]
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.4.5",
+    "babel-jest": "^24.8.0",
     "eslint": "^5.16.0",
     "husky": "^2.4.1",
     "jest": "^24.8.0",
+    "jest-junit": "^6.4.0",
+    "jest-watch-typeahead": "^0.3.1",
     "lint-staged": "^8.2.1",
     "prettier": "^1.18.2"
   }
