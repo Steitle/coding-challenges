@@ -1,2 +1,3 @@
 # coding-challenges
-Beginner coding challenges
+
+Beginner coding challenges.
